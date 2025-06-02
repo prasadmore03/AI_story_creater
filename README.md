@@ -96,4 +96,10 @@ bash
 └── _stories/        # Automatically generated output folder
 License
 This project is open-source and available under the MIT License.
+## Story Preview
+
+![1](pic1.jpg)
+![2](pic2.jpg)
+![3](pic3.jpg)
+![4](pic4.jpg)
 
