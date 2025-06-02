@@ -98,8 +98,8 @@ License
 This project is open-source and available under the MIT License.
 ## Story Preview
 
-![1](pic1.jpg)
-![2](pic2.jpg)
-![3](pic3.jpg)
-![4](pic4.jpg)
+![1](pic1.JPG)
+![2](pic2.JPG)
+![3](pic3.JPG)
+![4](pic4.JPG)
 
